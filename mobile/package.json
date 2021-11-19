@@ -1,9 +1,0 @@
-{
-  "name": "mobile",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/uman95/demo-mobile-app.git",
-  "author": "Usman",
-  "license": "MIT",
-  "private": false
-}
